@@ -1,0 +1,50 @@
+# Electoral College Voting Power Analysis
+
+## Project Overview
+
+This project aims to analyze the voting power of each state in the United States based on the Electoral College system. The purpose is to highlight the discrepancies in voting power depending on the state in which a voter resides, demonstrating how this system contradicts the philosophy of "one person, one vote."
+
+## Project Objectives
+
+- **Quantify Voting Power**: Calculate the voting power of each state's citizens based on their electoral votes and population.
+- **Visualize Discrepancies**: Create visualizations to clearly illustrate the differences in voting power among states.
+- **Discuss Implications**: Provide an analysis of how these discrepancies impact democratic principles and election outcomes.
+
+## Dataset
+
+### Sources
+- **Population Data**: United States Census Bureau
+- **Electoral Votes**: National Archives and Records Administration
+
+### Description
+- **Population Data**: Contains the latest population estimates for each state.
+- **Electoral Votes**: Contains the number of electoral votes allocated to each state.
+
+## How to Use this Project
+
+### Prerequisites
+- **Python**: Version 3.x
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Geopandas (for mapping)
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/michael-wheeler/Michael-Wheeler-Portfolio.git
+    cd Michael-Wheeler-Portfolio/Project-ElectoralCollegeVotingPower
+    ```
+2. Install required libraries:
+    ```bash
+    pip install pandas numpy matplotlib seaborn geopandas
+    ```
+
+### Running the Analysis
+1. Open the Jupyter notebook `ElectoralCollegeVotingPower_Analysis.ipynb`.
+2. Run all cells to perform the analysis and generate visualizations.
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+- **Email**: mikewheeler.ind@gmail.com
+- **LinkedIn**: [linkedin.com/in/mwheelermba](https://linkedin.com/in/mwheelermba)
+- **GitHub**: [github.com/mwheelermba](https://github.com/mwheelermba)
