@@ -19,7 +19,7 @@ My name is Michael Wheeler, I hold an MBA in Business Analytics from Oregon Stat
 - Renewable Energy Sector Marketing Solutions
 - Healthcare
 
-  ### Personal Interests
+### Personal Interests
 - Mindfulness and Meditation
 - Hiking and Outdoor Activities
 - Reading and Writing
