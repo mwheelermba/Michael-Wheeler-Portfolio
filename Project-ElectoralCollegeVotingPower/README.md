@@ -13,8 +13,8 @@ This project aims to analyze the voting power of each state in the United States
 ## Dataset
 
 ### Sources
-- **Population Data**: United States Census Bureau
-- **Electoral Votes**: National Archives and Records Administration
+- **Population Data**: [United States Census Bureau](https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/totals/NST-EST2023-ALLDATA.csv)
+- **Electoral Votes**: [National Archives and Records Administration](https://www.archives.gov/electoral-college/allocation)
 
 ### Description
 - **Population Data**: Contains the latest population estimates for each state.
@@ -24,17 +24,17 @@ This project aims to analyze the voting power of each state in the United States
 
 ### Prerequisites
 - **Python**: Version 3.x
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Geopandas (for mapping)
+- **Libraries**: pandas, bs4, requests, geopandas, plotly.express, json, shapely.geometry, shapely.affinity
 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/michael-wheeler/Michael-Wheeler-Portfolio.git
+    git clone https://github.com/mwheelermba/Michael-Wheeler-Portfolio.git
     cd Michael-Wheeler-Portfolio/Project-ElectoralCollegeVotingPower
     ```
 2. Install required libraries:
     ```bash
-    pip install pandas numpy matplotlib seaborn geopandas
+    pip install pandas, bs4, requests, geopandas, plotly.express, json, shapely.geometry, shapely.affinity
     ```
 
 ### Running the Analysis
