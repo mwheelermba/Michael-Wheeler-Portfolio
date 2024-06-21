@@ -20,6 +20,12 @@ This project aims to analyze the voting power of each state in the United States
 - **Population Data**: Contains the latest population estimates for each state.
 - **Electoral Votes**: Contains the number of electoral votes allocated to each state.
 
+### Visualization Example
+
+Here is an example of the voting power distribution across the United States:
+
+![Voting Power Example](USA-Electoral-College-Map-Example.png)
+
 ## How to Use this Project
 
 ### Prerequisites
