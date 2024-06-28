@@ -21,12 +21,12 @@ We need to know:
 ## Tasks:
 Your written report should include written text summaries and graphics of the following:  
 * Data validation:
-*   Describe validation and cleaning steps for every column in the data
+  * Describe validation and cleaning steps for every column in the data
 * Exploratory Analysis to answer the customer questions ensuring you include:
-*   Two different types of graphic showing single variables only
-*   At least one graphic showing two or more variables
-*   Description of your findings
+  * Two different types of graphic showing single variables only
+  * At least one graphic showing two or more variables
+  * Description of your findings
 * Definition of a metric for the business to monitor
-*   How should the business monitor what they want to achieve?
-*   Estimate the initial value(s) for the metric based on the current data?
+  * How should the business monitor what they want to achieve?
+  * Estimate the initial value(s) for the metric based on the current data?
 * Final summary including recommendations that the business should undertake
