@@ -36,4 +36,4 @@ The telecommunications (telecom) sector in India is rapidly changing, with more 
 * Assess the models on test data. Assign the model's name with higher accuracy ("LogisticRegression" or "RandomForest") to higher_accuracy.
 
 ## Findings
-The model that produced the highest accuracy is the Random Forest Classifier, which produced an accuracy score of 78.92%.  
+The model that produced the highest accuracy is the Random Forest Classifier, which produced an accuracy score of 77.79%.  
