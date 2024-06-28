@@ -31,5 +31,5 @@ Predict recipes that lead to high traffic. Aim for 80% accuracy in these predict
 * The metric of interest is **precision**.
 
 ## Results:
-* Logistic Regression with a parameter of C=0.201 produced the highest precision score of the three models at 82.24%.
+* Logistic Regression with a parameter of C=0.201 produced the highest precision score of the three models at 83.81%.
 
