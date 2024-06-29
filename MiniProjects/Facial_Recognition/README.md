@@ -20,3 +20,4 @@ Construct machine learning pipelines for three classification models. Store thes
 As an optional step, use Matplotlib to create a confusion matrix visualization for the predictions made by your best model.
 
 ## Findings
+The Logistic Regression model had the highest accuracy on the training set with an accuracy score of 80.19%. This model's performance on the test set did exceed the 80% threshold at 81.56%. However, it had a 0.125 recall score. The model is great at predicting who is not Arnold, but not great at identifying Arnold. 
