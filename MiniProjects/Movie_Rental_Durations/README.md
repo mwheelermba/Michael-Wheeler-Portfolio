@@ -33,3 +33,4 @@ Following the preprocessing you will need to:
 * Save the model you would recommend as a variable named best_model, and save its MSE on the test set as best_mse.
 
 ## Findings
+The best model for predicting movie rental durations is a Decision Tree Regression model, which produced an MSE of 2.12 on the test set, beneath the required threshold of 3. This model explains 70.1% of variance in movie durations. The Amount attribute is the most important feature in the dataset by far, with rental_rate and length trailing behind.
