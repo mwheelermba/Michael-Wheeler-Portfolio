@@ -11,3 +11,4 @@ Use supervised learning techniques to automate the credit card approval process 
 * Preproccess the data and apply supervised learning techniques to find the best model and parameters for the job. Save the accuracy score from your best model as a numeric variable, best_score. Aim for an accuracy score of at least 0.75. The target variable is the last column of the DataFrame.
 
 ## Findings
+The Random Forest ensemble mmodel performs best on this data set, producing an accuracy score of 87.58% on the training set and 84.06% on the testing set, well above the required 75% for the project. It performs strongly for correctly predicting approvals and rejections equally. Its accuracy, precision, recall, and f1 score on the test set are all at 84%.
