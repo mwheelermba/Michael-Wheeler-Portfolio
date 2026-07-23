@@ -1,0 +1,15 @@
+Archive
+
+This folder contains exploratory analyses and certification capstones completed between 2022 and 2023, during and shortly after my MBA in Business Analytics at Oregon State University. They are kept here for continuity and are not representative of my current work.
+
+Contents
+
+IBM_Data_Analyst_Final / IBM_Data_Scientist_Final Completion projects for the IBM Data Analyst and IBM Data Science professional certificates. Cover standard curriculum topics: data wrangling, visualization, regression modeling, and reporting.
+
+Project-ElectoralCollegeVotingPower Exploratory analysis of per-capita voting weight disparities across states under the Electoral College, with visualization and a brief statistical comparison of proportional alternatives.
+
+Project-PensAndPrinters Sales analysis for a fictional office supply company, covering revenue trend analysis, product segmentation, and basic forecasting.
+
+Project-TastyBytesRecipes Recipe dataset analysis built around ingredient clustering and nutritional pattern exploration.
+
+MiniProjects Short analyses on topics of personal interest, built primarily to practice specific methods or libraries.
