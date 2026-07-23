@@ -1,0 +1,17 @@
+# Data — PaySim CSV is large and lives on Kaggle
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
